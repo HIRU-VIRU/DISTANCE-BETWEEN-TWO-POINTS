@@ -22,6 +22,7 @@ End the program
 
 ### PROGRAM:
 ```python
+#Program to find the distance between two points
 #Developed by : HIRUTHIK SUDHAKAR
 # Reg Num :212223240054 
 import math
@@ -34,8 +35,7 @@ print(format(d,"0.2f"))
 ```
 ### OUTPUT:
 
-![alt text](image.png)
-
+![alt text](image-1.png)
 ### RESULT:
 
 Thus the program to find the distance between two points is written and verified using python programming.
