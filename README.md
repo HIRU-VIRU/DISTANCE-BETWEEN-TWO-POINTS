@@ -35,7 +35,7 @@ print(format(d,"0.2f"))
 ```
 ### OUTPUT:
 
-![alt text](image-1.png)
+![alt text](image.png)
 ### RESULT:
 
 Thus the program to find the distance between two points is written and verified using python programming.
